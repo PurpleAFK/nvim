@@ -5,6 +5,9 @@ local opt = vim.opt
 opt.relativenumber = true
 opt.number = true
 
+-- to remove the ~ sign
+vim.opt.fillchars:append { eob = " " }
+
 
 -- tabs and indentation
 opt.tabstop = 2
