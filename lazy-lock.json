@@ -1,4 +1,6 @@
 {
+  "alpha-nvim": { "branch": "main", "commit": "41283fb402713fc8b327e60907f74e46166f4cfd" },
+  "auto-session": { "branch": "main", "commit": "b75f8c65758ff5236c6d7ed96456a6ff7a9141cf" },
   "catppuccin": { "branch": "main", "commit": "e1268d1c0351aa5a42ea00a680ce84de2ba080fc" },
   "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
   "nvim-tree.lua": { "branch": "master", "commit": "48d0e82f9434691cc50d970898142a8c084a49d6" },
